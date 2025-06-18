@@ -139,7 +139,7 @@ This project was built as an **academic showcase of practical voice-based AI int
 
 ## 🧑‍💻 Developed By
 
-**\Ekaagra gupta**
+**Ekaagra gupta**
 B.Tech CSE (AI & ML)
 Manipal University Jaipur
 Email work: \ekaagra.2427010368@muj.manipal.edu
